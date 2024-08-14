@@ -1,0 +1,1 @@
+O parâmetro self é usado, por convenção, para informar que a função é um método de uma classe, servindo também para que a instância do novo objeto criado seja passada para o método. O parâmetro id é utilizado para fazer a distinção entre objetos da classe e deve ser passado durante a criação (instanciação) do objeto.

@@ -1,0 +1,5 @@
+# Modificadores de acesso e segurança
+
+<span dir="">Antes de partir para a pergunta, gostaria de explicar o que é modificadores de acesso, que no caso são palavras-chave que definem a acessibilidade a atributos, métodos e classes, dessa forma, o desenvolvedor pode definir como esses membros devem ser acessados.</span>
+
+<span dir="">Agora partindo para pergunta, o objetivo dos modificadores de acesso não é evitar que alguém acesse algum valor da sua classe ou prover segurança para o seu código, mas sim uma forma de indicar para os outros que vão usar sua classe que aquele atributo não deve ser acessado diretamente</span>.<span dir=""> Isso significa que ao invés de criar barreiras concretas de modificadores de acesso, os desenvolvedores preferem estabelecer uma série de **convenções** que indicam como o acesso a esses elementos deve ser realizado. Assim, mesmo que campos privados sejam criados, sempre há uma forma de acessar esses atributos</span>.

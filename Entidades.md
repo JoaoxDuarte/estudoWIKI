@@ -1,0 +1,5 @@
+<span dir="">As entidades podem ser vistas como classes onde armazenam os dados e encapsulam as regras de negócio da nossa aplicação.</span>
+
+<span dir="">Quando falamos de alguma arquitetura, vemos muitos conceitos surgindo que podem se relacionar com as entidades. Um conceito bastante importante é o de domínio, que significa a camada mais interna de nossa arquitetura, onde é composto sobretudo de nossas entidades. Por existir uma hierarquia de camadas, e por ela estar dentro da camada mais interna, as entidades vão ter um forte relacionamento com as regras de negócio de nossa arquitetura.  </span>
+
+<span dir="">As entidades não devem mudar de uma aplicação mobile para uma web, ou vice-versa, pois ao desenvolver um software em alguma aplicação específica, para fazer a mudança será preciso refazer toda a arquitetura do zero</span>, que dai vem o importante conceito da interferência das dependência externas nas nossas regras de negócio da arquitetura limpa.

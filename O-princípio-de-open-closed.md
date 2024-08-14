@@ -1,0 +1,5 @@
+# Open Closed
+
+O princípio open Close ou aberto/fechado, é um dos princípios SOLID, O princípio do aberto/fechado nos auxilia a desenhar um software que seja fácil de modificar, e que não sofre com o impacto das mesmas. Onde “Entidades de software ( classes, métodos, módulo, etc ) devem estar abertas para extensão, mas fechadas para modificação”.
+
+Usar interfaces pode permitir diferentes implementações que você quer substituir facilmente sem alterar o código que as utiliza. As interfaces estão fechadas para modificações e você pode fornecer novas implementações para estender a funcionalidade do seu software. O principal benefício dessa abordagem é que uma interface introduz um nível adicional de abstração que permite o baixo acoplamento. As implementações de uma interface são independentes umas das outras e não precisam compartilhar nenhum código.
